@@ -1,0 +1,12 @@
+name: WitherWarp
+version: 1.17
+author: Zero_Day_Exploit
+
+main: de.zbs.witherwarp.main.WitherWarp
+
+softdepend: [EffectLib]
+
+commands:
+  witherwarp:
+    description: Main Command of WitherWarp
+    aliases: [warp, warps, setwarp, delwarp, editwarp, getwarpclock]
